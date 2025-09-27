@@ -1,3 +1,3 @@
-# Guide to project
+# Instant New Project
 
-A promising resource for everyone visiting the website that will help them.
+Yippie my first project, I am extremely happy for it.
